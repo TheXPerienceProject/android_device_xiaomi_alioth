@@ -45,4 +45,7 @@
 
     <!-- Burn in protection -->
     <bool name="config_statusBarBurnInProtection">true</bool>
+
+    <!-- If not zero, limits the internal screen recorder's framerate to the set value. -->
+    <integer name="config_screenRecorderMaxFramerate">120</integer>
 </resources>

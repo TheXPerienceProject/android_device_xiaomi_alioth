@@ -80,6 +80,24 @@ vendor/firmware/spk1_voice_delta.txt
 vendor/firmware/spk2_playback_delta.txt
 vendor/firmware/spk2_voice_delta.txt
 
+# Audio Speakers Calibration
+system/bin/climax_tfa
+system/bin/climax_tfa9873
+system/bin/spkcal
+system/bin/spkcal_88263s
+system/bin/spkcal_alioth
+system/bin/spkcal_dagu
+system/bin/spkcal_elish
+system/bin/spkcal_enuma
+system/bin/spkcal_psyche
+system/bin/spkcal_taoyao
+system/bin/spkcal_tfa
+system/bin/spkcal_tfa_munch
+system/bin/spkcal_thyme
+system/bin/spkcal_venus
+vendor/etc/cirrus.cfg
+vendor/etc/cs35l41_cal.wav
+
 # Camera
 vendor/lib64/camera/com.qti.actuator.alioth_dw9800.so
 vendor/lib64/camera/com.qti.eeprom.alioth_ofilm_hi556_p24c64f.so
